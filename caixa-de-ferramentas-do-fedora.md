@@ -14,7 +14,7 @@ Com o provides é retornado o nome do repositório, o resumo da descrição do p
 
 ### Através do repoquery
 
-#### Lista os arquivo contidos em um pacote:
+#### Listar os arquivo contidos em um pacote:
 Sintaxe: $ dnf repoquery -l nome-do-pacote
 
 Exemplo:
@@ -30,8 +30,10 @@ Exemplo:
 dnf repoquery -f /usr/bin/bash
 ```
 
-## Lista os arquivos intalados por um rpm:
+## Listar os arquivos intalados por um rpm:
+```
 rpm -ql hda-bb-0.1-1.noarch
+```
 
 ## lista todos os pacotes de um repo específico:
 Sintaxe: $ sudo dnf repo-pkgs nome-do-repositório list available

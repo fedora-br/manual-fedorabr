@@ -14,7 +14,7 @@ Com o provides é retornado o nome do repositório, o resumo da descrição do p
 
 ### Através do repoquery
 
-#### Listar os arquivo contidos em um pacote:
+#### Listar os arquivos contidos em um pacote:
 Sintaxe: $ dnf repoquery -l nome-do-pacote
 
 Exemplo:

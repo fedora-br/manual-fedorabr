@@ -48,7 +48,7 @@ available para disponíveis ou installed para instalados
 sudo dnf repo-pkgs nome-do-repo list installed
 
 ### Baixar um pacote sem instalá-lo:
-dnf download pacote
+Sintaxe: $ dnf download pacote
 
 ## Extrair o conteúdo de um arquivo rpm
 Sintaxe: $ rpm2cpio pacote.rpm | cpio -idmv

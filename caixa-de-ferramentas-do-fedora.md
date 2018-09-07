@@ -35,7 +35,7 @@ dnf repoquery -f /usr/bin/bash
 rpm -ql hda-bb-0.1-1.noarch
 ```
 
-## Listar todos os pacotes de um repo específico:
+## Listar todos os pacotes de um repositório específico:
 Sintaxe: $ sudo dnf repo-pkgs nome-do-repositório list available
 
 ```
@@ -44,7 +44,7 @@ sudo dnf repo-pkgs folkswithhats list available
 
 available para disponíveis ou installed para instalados
 
-## Listar os pactes instalados de um repo:
+## Listar os pactes instalados de um repositório:
 sudo dnf repo-pkgs nome-do-repo list installed
 
 ### Baixar um pacote sem instalá-lo:

@@ -44,8 +44,8 @@ sudo dnf repo-pkgs folkswithhats list available
 
 available para disponíveis ou installed para instalados
 
-## Listar os pactes instalados de um repositório:
-sudo dnf repo-pkgs nome-do-repo list installed
+## Listar os pacotes instalados de um repositório:
+Sintaxe: $ sudo dnf repo-pkgs nome-do-repo list installed
 
 ### Baixar um pacote sem instalá-lo:
 Sintaxe: $ dnf download pacote

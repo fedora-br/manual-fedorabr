@@ -27,7 +27,7 @@ $ localectl list-locales
 $ localectl list-keymaps
 ```
 
-### Definir o teclado para o padrão brasileiro no console e no X11
+### Definir o teclado para o padrão brasileiro no console e no Wayland e Xorg
 
 ```
 # localectl set-keymap br

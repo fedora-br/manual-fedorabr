@@ -1,4 +1,4 @@
-# Trabalhando com Repositórios
+# Gerenciamento de Pacotes
 ## Procurar por pacotes que contenham um arquivo específico
 
 ### Através do dnf provides

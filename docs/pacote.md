@@ -23,36 +23,36 @@ $ dnf repoquery -l python3-pycparser
 ```
 
 #### Listar o pacote que é dono do arquivo
-Sintaxe: dnf repoquery -f caminho-absoluto-do-arquivo/arquivo
+Sintaxe: $ dnf repoquery -f caminho-absoluto-do-arquivo/arquivo
 
 Exemplo:
 ```
-dnf repoquery -f /usr/bin/bash
+$ dnf repoquery -f /usr/bin/bash
 ```
 
 ## Listar os arquivos intalados por um rpm:
-Sintaxe: rpm -ql nome-do-arquivo.rpm OU rpm -ql nome-do-pacote-que-ele-instala
+Sintaxe: $ rpm -ql nome-do-arquivo.rpm OU rpm -ql nome-do-pacote-que-ele-instala
 
 Exemplo:
 ```
-rpm -ql google-chrome-stable-69.0.3497.81-1.x86_64.rpm
+$ rpm -ql google-chrome-stable-69.0.3497.81-1.x86_64.rpm
 ```
 ou
 ```
-rpm -ql google-chrome-stable
+$ rpm -ql google-chrome-stable
 ```
 
 ## Listar todos os pacotes de um repositório específico:
-Sintaxe: $ sudo dnf repo-pkgs nome-do-repositório list available
+Sintaxe: $ dnf repo-pkgs nome-do-repositório list available
 
 ```
-sudo dnf repo-pkgs folkswithhats list available
+$ dnf repo-pkgs folkswithhats list available
 ```
 
 available para disponíveis ou installed para instalados
 
 ## Listar os pacotes instalados de um repositório:
-Sintaxe: $ sudo dnf repo-pkgs nome-do-repo list installed
+Sintaxe: $ dnf repo-pkgs nome-do-repo list installed
 
 ### Baixar um pacote sem instalá-lo:
 Sintaxe: $ dnf download pacote

@@ -32,6 +32,7 @@ dnf repoquery -f /usr/bin/bash
 
 ## Listar os arquivos intalados por um rpm:
 Sintaxe: rpm -ql nome-do-arquivo.rpm OU rpm -ql nome-do-pacote-que-ele-instala
+
 Exemplo:
 ```
 rpm -ql google-chrome-stable-69.0.3497.81-1.x86_64.rpm

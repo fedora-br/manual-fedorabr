@@ -7,4 +7,5 @@ Esse manual serve como referência na utilização e configuração da distribui
 
 1. [Personalização do Idioma](docs/idioma.md)
 1. [Gerenciamento de Pacotes](docs/pacote.md)
+1. [Gerenciamento de Rede: nmcli](docs/nmcli.md)
 1. [Sobre o Caixa de Ferramentas do Fedora](docs/sobre.md)

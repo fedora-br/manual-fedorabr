@@ -1,6 +1,6 @@
 # Manual - FedoraBR
 
-Este é um manual não oficial criado por contribuidores oficiais do projeto e demais usuários do Fedora para auxiliar na utililização da distribuição do Projeto Fedora a partir da versão 28.
+Este é um manual não oficial criado por contribuidores oficiais do Projeto Fedora e demais usuários do Fedora para auxiliar na utililização da distribuição do Projeto Fedora a partir da versão 28.
 
 
 ## Sumário

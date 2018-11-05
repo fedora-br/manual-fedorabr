@@ -1,6 +1,6 @@
-# Caixa de Ferramentas do Fedora
+# Manual - FedoraBR
 
-Esse manual serve como referência na utilização e configuração da distribuição GNU/Linux do Projeto Fedora a partir da versão do Fedora 28.
+Este é um manual não oficial criado por contribuidores oficiais do projeto e demais usuários do Fedora para auxiliar na utililização da distribuição do Projeto Fedora a partir da versão 28.
 
 
 ## Sumário
